@@ -1,0 +1,1 @@
+# mapsqua-api
